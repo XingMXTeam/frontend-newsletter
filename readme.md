@@ -1,6 +1,6 @@
 # The Best toolkits for front-end engineer
 
-> as a front-end engineer, i often collected some tools and resources. These tools may be helpful for others guys, so i lists here publicly.
+> as a front-end engineer, i often collected some tools and resources. These tools may be helpful for others, so i lists here.
 
 Category | Link | Rate | Frequency | Comments 
 ---------|----------|---------|---------|---------
