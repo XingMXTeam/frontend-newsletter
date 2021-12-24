@@ -25,6 +25,6 @@ Startsup Blog |	[mtlynch](https://mtlynch.io/) ||
 Tools |	[opencollective](https://opencollective.com/)||
 Technology |	[infoq](https://www.infoq.cn/)||
 BookList |	[cs books](https://github.com/forthespada/CS-Books)||
-Technical Writing Courses for Engineers | ||
+Technical Writing Courses for Engineers | https://medium.learningbyshipping.com/writing-is-thinking-an-annotated-twitter-thread-2a75fe07fade ||
 This is How Amazon measures itself | ||
 Books | https://www.goodreads.com/ ||
