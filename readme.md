@@ -21,7 +21,10 @@ Front-end-resources | [humanwhocodes](https://humanwhocodes.com/)||
 Front-end-resources | [addyosmani](https://addyosmani.com/)||
 Front-end-resources | [interview](https://github.com/jwasham/coding-interview-univerity)||
 Front-end-resources | [antfu](https://antfu.me/)||
-Startsup |	[mtlynch](https://mtlynch.io/) ||
+Startsup Blog |	[mtlynch](https://mtlynch.io/) ||
 Tools |	[opencollective](https://opencollective.com/)||
 Technology |	[infoq](https://www.infoq.cn/)||
 BookList |	[cs books](https://github.com/forthespada/CS-Books)||
+Technical Writing Courses for Engineers | ||
+This is How Amazon measures itself | ||
+Books | https://www.goodreads.com/ ||
