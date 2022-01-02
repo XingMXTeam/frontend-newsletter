@@ -32,8 +32,9 @@
 + [whimsical](https://whimsical.com)
 + edrawmax
 
-## TRANSLATION
+## TOOLS
 + [deepl](https://www.deepl.com/translator)
++ [gitmoji](https://gitmoji.dev/)
 
 ## INTERVIEW
 + [interview](https://github.com/jwasham/coding-interview-univerity)
