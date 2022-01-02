@@ -1,5 +1,5 @@
 # My Favorite Websites Or Tools
-> as a front-end engineer, i often visit websites and use some tools. These are some bookmarks that i highly recommended.
+> as a front-end engineer, i often visit websites and use some tools. These are some bookmarks that i highly recommend.
 
 ## FE DEV
 + [yuque awesome](https://www.yuque.com/awesome) 
