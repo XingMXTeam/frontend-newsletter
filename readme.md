@@ -2,7 +2,7 @@
 > as a front-end engineer, i often visit websites and use some tools. These are some bookmarks that i highly recommended.
 
 ## FE DEV
-+ [yuque awesome](https://www.yuque.com/awesome)
++ [yuque awesome](https://www.yuque.com/awesome) 
 + [mdh weekly](https://www.yuque.com/mdh/weekly/euomv7)
 + [web.dev](https://web.dev/blog/)
 + [developer chrome](https://developer.chrome.com/)
@@ -10,6 +10,7 @@
 + [humanwhocodes](https://humanwhocodes.com/)
 + [addyosmani](https://addyosmani.com/)
 + [antfu](https://antfu.me/)
++ [alili](https://alili.tech/archive/) 
 
 ## SOFTWARE
 + [infoq](https://www.infoq.cn/)
