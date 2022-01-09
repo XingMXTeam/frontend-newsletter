@@ -14,7 +14,7 @@
 
 ## SOFTWARE
 + [infoq](https://www.infoq.cn/)
-+ [Technical Writing Courses for Engineers](https://medium.learningbyshipping.com/writing-is-thinking-an-annotated-twitter-thread-2a75fe07fade)
++ [Technical Writing Courses for Engineers](https://medium.learningbyshipping.com/writing-is-thinking-an-annotated-twitter-thread-2a75fe07fade) &#x1F44D;&#x1F44D;&#x1F44D;&#x1F44D;&#x1F44D;
 + This is How Amazon measures itself
 
 ## AI DEV
@@ -39,10 +39,11 @@
 ## INTERVIEW
 + [interview](https://github.com/jwasham/coding-interview-univerity)
 
-## STARTS UP
+## STARTSUP
 + [mtlynch](https://mtlynch.io/)
 + [opencollective](https://opencollective.com/)
 
 ## BOOK
 + [cs books](https://github.com/forthespada/CS-Books)
 + [goodreads](https://www.goodreads.com/)
++ [A Year Of Reading The World](https://ayearofreadingtheworld.com/thelist/) &#x1F44D;&#x1F44D;&#x1F44D;&#x1F44D;&#x1F44D;
