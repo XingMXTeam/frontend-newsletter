@@ -16,6 +16,7 @@
 + [infoq](https://www.infoq.cn/)
 + [Technical Writing Courses for Engineers](https://medium.learningbyshipping.com/writing-is-thinking-an-annotated-twitter-thread-2a75fe07fade) &#x1F44D;&#x1F44D;&#x1F44D;&#x1F44D;&#x1F44D;
 + This is How Amazon measures itself
++ https://levelup.gitconnected.com/
 
 ## AI DEV
 + [pengzhihui](http://www.pengzhihui.xyz/)
