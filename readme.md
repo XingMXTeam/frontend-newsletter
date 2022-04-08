@@ -20,6 +20,7 @@
 + https://www.smashingmagazine.com/
 + https://www.sitepoint.com/
 + https://developer.mozilla.org/zh-CN/
++ [Dan Abramov](https://overreacted.io/) &#x1F44D;&#x1F44D;&#x1F44D;&#x1F44D;&#x1F44D;
 
 ## SOFTWARE
 
