@@ -1,4 +1,4 @@
-# My Favorite Websites Or Tools
+# Front End Resources
 
 > As a front-end engineer, i often visit some websites and use some tools. These are some that i highly recommend.
 
