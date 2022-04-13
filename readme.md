@@ -1,6 +1,6 @@
 # Front End Resources
 
-> As a front-end engineer, i often visit some websites and use some tools. These are some that i highly recommend.
+Some of my favorite websites/tools that I highly recommend
 
 ## FRONT_END DEV
 
