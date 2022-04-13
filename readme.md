@@ -1,4 +1,4 @@
-# Front End Resources
+# Front End Newsletter
 
 Some of my favorite websites/tools that I highly recommend
 
