@@ -80,3 +80,7 @@ Some of my favorite websites/tools that I highly recommend
 ## BLOGGER
 
 + http://www.ruanyifeng.com/blog/
+
+## Concept
+
++ https://www.dailydoseofds.com/tag/deployment/
